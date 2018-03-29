@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\KeyPress\KeyPress\bin\Debug\KeyPress.exe.config
+C:\Users\Student\source\repos\KeyPress\KeyPress\bin\Debug\KeyPress.exe
+C:\Users\Student\source\repos\KeyPress\KeyPress\bin\Debug\KeyPress.pdb
+C:\Users\Student\source\repos\KeyPress\KeyPress\obj\Debug\KeyPress.csprojResolveAssemblyReference.cache
+C:\Users\Student\source\repos\KeyPress\KeyPress\obj\Debug\KeyPress.Form1.resources
+C:\Users\Student\source\repos\KeyPress\KeyPress\obj\Debug\KeyPress.Properties.Resources.resources
+C:\Users\Student\source\repos\KeyPress\KeyPress\obj\Debug\KeyPress.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\KeyPress\KeyPress\obj\Debug\KeyPress.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\KeyPress\KeyPress\obj\Debug\KeyPress.exe
+C:\Users\Student\source\repos\KeyPress\KeyPress\obj\Debug\KeyPress.pdb
